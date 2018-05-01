@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textview">TextView</string>
+    <string name="my_calculator">My calculator</string>
+    <string name="string">Button two</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter name</string>
+    <string name="button_two">Button two</string>
+    <string name="button_one">Button one</string>
+    <string name="idnetity">Enter name ..</string>
+    <string name="List">Enter name..</string>
+    <string name="Result">Enter percent ..</string>
+    <string name="result">Result</string>
+    <string name="calculate">calculate</string>
+    <string name="result">Result</string>
+</resources>
